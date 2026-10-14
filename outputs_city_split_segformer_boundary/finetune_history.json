@@ -1,0 +1,92 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.5255781943709762,
+    "val_score": 0.6508871980863855,
+    "threshold": 0.7,
+    "val_iou": 0.7339996827423982,
+    "val_boundary_f1": 0.5677747134303728,
+    "val_boundary_iou": 0.17003572448766732
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.5183599603617632,
+    "val_score": 0.6398697420568321,
+    "threshold": 0.7,
+    "val_iou": 0.7273429499141979,
+    "val_boundary_f1": 0.5523965341994663,
+    "val_boundary_iou": 0.16278413819262225
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.5149476559073837,
+    "val_score": 0.6513409284980354,
+    "threshold": 0.7,
+    "val_iou": 0.7345014223441412,
+    "val_boundary_f1": 0.5681804346519295,
+    "val_boundary_iou": 0.17126262339304363
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.5118246990221518,
+    "val_score": 0.657433047578145,
+    "threshold": 0.7,
+    "val_iou": 0.7420464714117864,
+    "val_boundary_f1": 0.5728196237445037,
+    "val_boundary_iou": 0.17307798359175117
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.5087086976899041,
+    "val_score": 0.66526891413796,
+    "threshold": 0.7,
+    "val_iou": 0.7451490587888385,
+    "val_boundary_f1": 0.5853887694870815,
+    "val_boundary_iou": 0.17985559978739787
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.5070229980239161,
+    "val_score": 0.6650155676941261,
+    "threshold": 0.7,
+    "val_iou": 0.7465272942269889,
+    "val_boundary_f1": 0.5835038411612632,
+    "val_boundary_iou": 0.17870343428388288
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.5050750274128384,
+    "val_score": 0.6609224660756666,
+    "threshold": 0.7,
+    "val_iou": 0.7401638385274701,
+    "val_boundary_f1": 0.5816810936238631,
+    "val_boundary_iou": 0.17681049976913354
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.5039604621021836,
+    "val_score": 0.6577541255295667,
+    "threshold": 0.7,
+    "val_iou": 0.74045655586721,
+    "val_boundary_f1": 0.5750516951919233,
+    "val_boundary_iou": 0.17512895902150527
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.5028813993489301,
+    "val_score": 0.646734026044075,
+    "threshold": 0.7,
+    "val_iou": 0.7341205477596886,
+    "val_boundary_f1": 0.5593475043284615,
+    "val_boundary_iou": 0.16695232891882347
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.5018268430674517,
+    "val_score": 0.6541541142349876,
+    "threshold": 0.7,
+    "val_iou": 0.7400606711227585,
+    "val_boundary_f1": 0.5682475573472167,
+    "val_boundary_iou": 0.17142286682390764
+  }
+]
