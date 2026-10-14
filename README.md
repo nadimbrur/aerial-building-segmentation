@@ -140,6 +140,9 @@ Building coverage differs strongly by city: from 4.9% of pixels in Kitsap to 28.
 - Logits are bilinearly upsampled to the input resolution before the loss.
 - **Transfer learning.** The encoder starts from **ImageNet-pretrained** weights and is fine-tuned end to end; the decoder head is randomly initialised.
 
+
+![SegFormer-B3 model architecture](assets/model_architecture.png)
+
 ## Loss function
 
 ```
